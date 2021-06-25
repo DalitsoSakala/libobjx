@@ -1,3 +1,4 @@
+#pragma once
 #include "objx-vec.h"
 
 namespace phys{
